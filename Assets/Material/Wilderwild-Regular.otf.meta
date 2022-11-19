@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 52956cf57934e664cb4b036ae9316745
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Wilderwild
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b03d97959dcc5402685f2185d4d248b0, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
