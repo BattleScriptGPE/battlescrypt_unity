@@ -1,0 +1,3 @@
+[submodule "Assets/battlescrypt_assets"]
+	path = Assets/battlescrypt_assets
+	url = git@github.com:BattleScriptGPE/battlescrypt_assets.git
