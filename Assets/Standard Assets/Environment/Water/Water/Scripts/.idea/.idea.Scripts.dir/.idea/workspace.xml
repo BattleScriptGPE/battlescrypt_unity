@@ -4,7 +4,64 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aaa5552d-848d-4fa8-ab05-2ad472ad643f" name="Changes" comment="" />
+    <list default="true" id="aaa5552d-848d-4fa8-ab05-2ad472ad643f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../../Standard Assets.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Effects.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Effects/LightFlares.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Effects/LightFlares/Flares.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Effects/LightFlares/Flares/50mmZoom.flare" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Effects/LightFlares/Flares/50mmZoom.flare.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Effects/LightFlares/Flares/FlareSmall.flare" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Effects/LightFlares/Flares/FlareSmall.flare.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Effects/LightFlares/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Effects/LightFlares/Textures/Flare50mm.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Effects/LightFlares/Textures/Flare50mm.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Effects/LightFlares/Textures/FlareStar.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Effects/LightFlares/Textures/FlareStar.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Environment.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Water.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Water.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Scripts.dir/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GerstnerDisplace.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GerstnerDisplace.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PlanarReflection.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PlanarReflection.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpecularLighting.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpecularLighting.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WaterBase.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WaterBase.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WaterTile.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WaterTile.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Shaders.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Shaders/FXWaterPro.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Shaders/FXWaterPro.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Textures/WaterFresnel.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Textures/WaterFresnel.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Water4.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Water4/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Water4/Materials/OceanPlaneMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Water4/Materials/OceanPlaneMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Water4/Materials/Water4Advanced.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Water4/Materials/Water4Advanced.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Water4/Models.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Water4/Models/OceanPlane.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Water4/Models/OceanPlane.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Water4/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Water4/Prefabs/Water4Advanced.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Water4/Prefabs/Water4Advanced.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Water4/Shaders.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Water4/Shaders/FXWater4Advanced.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Water4/Shaders/FXWater4Advanced.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Water4/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Water4/Textures/SmallWaves.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Water4/Textures/SmallWaves.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ParticleSystems.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ParticleSystems/Shaders.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ParticleSystems/Shaders/PriorityParticleAdd.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ParticleSystems/Shaders/PriorityParticleAdd.shader.meta" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,27 +72,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "ignore.virus.scanning.warn.message": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "rider.external.source.directories": [
-      "C:\\Users\\wargl\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\DecompilerCache",
-      "C:\\Users\\wargl\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\SourcesCache",
-      "C:\\Users\\wargl\\AppData\\Local\\Symbols\\src"
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;C:\\Users\\wargl\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\DecompilerCache&quot;,
+      &quot;C:\\Users\\wargl\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\SourcesCache&quot;,
+      &quot;C:\\Users\\wargl\\AppData\\Local\\Symbols\\src&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -45,6 +102,7 @@
       <option name="presentableId" value="Default" />
       <updated>1681738486768</updated>
       <workItem from="1681738488276" duration="727000" />
+      <workItem from="1681827158346" duration="203000" />
     </task>
     <servers />
   </component>
